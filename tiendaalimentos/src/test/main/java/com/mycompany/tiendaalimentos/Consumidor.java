@@ -6,7 +6,8 @@ package com.mycompany.tiendaalimentos;
 
 public class Consumidor {
     public void recibirMensaje(String mensaje) {
-        System.out.println("📩 Mensaje recibido y procesado: " + mensaje);
+        System.out.println("Mensaje recibido y procesado: " + mensaje);
     }
 }
+
 
